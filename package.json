@@ -1,0 +1,16 @@
+{
+  "name": "vuex-breakpoint",
+  "version": "1.0.0",
+  "description": "vuex-breakpoint is a Vue.js plugin to get the media query changes in a vue application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrik Karlsson",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
