@@ -3,6 +3,9 @@
 
 > vuex-breakpoint is a Vue.js plugin to get the media query changes in a vue application.
 
+### Live demo
+[![Edit Vue Template](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/w2p46xopnw)
+
 ### Installation
 
 ```js
