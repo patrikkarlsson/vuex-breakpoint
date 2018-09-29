@@ -24,11 +24,11 @@ export default new Vuex.Store({
  },
 });
 ```
-Import and add Breakpoint as a mixin in App component.
+Import and add breakpoint as a mixin in App component.
 ```js
 import { breakpoint } from 'vuex-breakpoint';
 export default {
-	name: 'app',
+	name: 'App',
 	mixins: [
 		breakpoint,
 	],
