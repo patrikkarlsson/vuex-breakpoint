@@ -10,11 +10,10 @@
   "homepage": "https://www.patrikkarlsson.io",
   "license": "ISC",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/patrikkarlsson/vuex-breakpoint.git"
+    "type": "git",
+    "url": "https://github.com/patrikkarlsson/vuex-breakpoint.git"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "lodash": "^4.17.11"
   }
