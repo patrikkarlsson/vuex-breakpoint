@@ -9,7 +9,7 @@
 ### Installation
 
 ```js
-yarn add vuex-breakpoint --dev
+yarn add vuex-breakpoint
 ```
 
 ### Usage
